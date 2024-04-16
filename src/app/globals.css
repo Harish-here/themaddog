@@ -31,3 +31,35 @@ body {
     text-wrap: balance;
   }
 }
+
+.jersey-10-charted-regular {
+  font-family: 'Jersey 10 Charted', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.open-sans-text {
+  font-family: 'Open Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: 'wdth' 100;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #fff;
+  color: black;
+}
+
+.sidebar li {
+  border: 3px solid #000;
+  padding: 5px 60px;
+  margin-bottom: 20px;
+  transition: ease 0.4s;
+  cursor: pointer;
+}
+.sidebar li:hover {
+  color: #fff;
+  background-color: #000;
+}

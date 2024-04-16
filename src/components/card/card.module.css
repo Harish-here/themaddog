@@ -1,0 +1,15 @@
+.card-container {
+  width: 30%;
+  background-color: #fff;
+
+  opacity: 0.6;
+  border-radius: 5px;
+}
+
+.card-main {
+  width: 100%;
+  min-height: 200px;
+  border: 2px solid #000;
+  opacity: 1;
+  background: transparent;
+}
