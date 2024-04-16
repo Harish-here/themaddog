@@ -11,7 +11,9 @@ export default function Home() {
     <div className='home-page relative'>
       <BackgroundImage imageUrl={homeImg} />
       <Card>
-        <div className='text-black font-semibold text-2xl'>sample Data</div>
+        <div className='text-black font-semibold text-2xl'>
+          sample Data another
+        </div>
       </Card>
     </div>
   );
